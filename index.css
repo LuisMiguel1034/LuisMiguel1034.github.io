@@ -1,0 +1,50 @@
+.center {
+    text-align-last: center;
+    color:black
+    
+}
+body {
+    font-family: arial, helvatica;
+
+    background-image: url("http://2.bp.blogspot.com/-W6PB8h-bxro/TrLDqBE3NmI/AAAAAAAAVqM/u4QUujdhiM4/s1600/Sin%2Bt%2525C3%2525ADtulo%2B29.bmp");
+    color: #ffffff;
+}
+.menu {
+    text-align-last: left;
+    list-style: none;
+    padding: 0;
+    background: #092327;
+    width: 90%;
+    max-width: 500px;
+    margin: auto;
+
+}
+.menu li a{
+    display: inline-block;
+
+    text-decoration: none;
+    color:#ffffff;
+    padding: 9px;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: #ef8354;
+}
+.principall{
+    background-color:darkseagreen;
+    color: black;
+    max-width: 500px;
+}
+.sobre{
+    text-align: center;
+    background-color:darkseagreen;
+    color: black;
+    max-width: 500px;
+}
+.servi{
+    text-align: center;
+    color: black;
+}
